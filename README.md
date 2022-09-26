@@ -7,7 +7,7 @@
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishnap43" alt="ramkrishnaprabhu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href='https://portfolio-ten-pearl-31.vercel.app/'>Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href='https://portfolio-ramkrishnap43.vercel.app/'>Portfolio</a>
 
 - 📝 I regularly write articles on <a href='https://medium.com/@ramkrishnap.prabhu43'>Medium</a>
 
