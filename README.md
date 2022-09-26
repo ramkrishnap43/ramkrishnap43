@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ramkrishna-prabhu-2720aa166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ramkrishnaLinkdin" height="30" width="40" /></a>
 <a href="https://medium.com/@ramkrishnap.prabhu43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramkrishnaprabhu43" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/ramprabhu43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ramkrishnaprabhu43" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/ramprabhu43/" target="blank" ><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="Ramkrishna Prabhu" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
