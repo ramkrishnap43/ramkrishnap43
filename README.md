@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *ramkrishnap.prabhu43@gmail.com*
 
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1Ad1W3MO-qqyzlcYCunp4AaBviJv6Udhx/view?usp=sharing'>Resume</a>
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1IItOg9yqbtHLfa5itcv_IGg7Y_Y5hTX6/view?usp=share_link'>Resume</a>
 
 - ⚡ Fun fact *I am good batsman*
 
